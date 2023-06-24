@@ -7,19 +7,19 @@ With this tool you can encrypt important files with a password of your choice!
 
 Options:
 
-  -h, --help             show help message and exit
+  -h, --help,             show help message and exit
   
-  -m  --mode MODE        Would you like to Encrypt or Decrypt?
+  -m  --mode,             Would you like to Encrypt or Decrypt?
   
-  -f  --file FILE        Insert the full file path (Make Sure the path is correct)
+  -f  --file,             Insert the full file path (Make Sure the path is correct)
   
-  -p  --password         Insert the password       
+  -p  --password,         Insert the password       
   
-  -P  --password_file    Insert the path where the password stored     
+  -P  --password_file,    Insert the path where the password stored     
   
-  -d, --delete           Deleting the Original File
+  -d, --delete,           Deleting the Original File
   
-  -s, --shadow           Deleting the Shadow Copies, only worked in Administrator mode
+  -s, --shadow,           Deleting the Shadow Copies, only worked in Administrator mode
   
 
 
