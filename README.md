@@ -2,6 +2,8 @@
 Simple Python Tool to encrypt/decrypt a file with a given password
 
 With this tool you can encrypt important files with a password of your choice!
+The script use AES-CBC (Cipher Block Chaining), in CBC Method each plaintext block gets XOR-ed with the previous ciphertext block prior to encryption.
+In addition there is a use of initialization vector to make sure each encryption has a different ciphertext result.
 
 
 
